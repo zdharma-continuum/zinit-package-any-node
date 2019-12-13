@@ -1,10 +1,9 @@
 # `any-node` Zsh package
 
-##### NPM link: [https://www.npmjs.com/package/zsh-any-node](https://www.npmjs.com/package/zsh-any-node)
-
-| **Package source:** | Source Tarball | Binary | Git | Node | Gem |
-|:-------------------:|:--------------:|:------:|:---:|:----:|:---:|
-| **Status:**         |        -       |  -     |  -  |  + <br> (default)  |  –  |
+| **Package source:** | Source Tarball | Binary | Git | Node | Gem
+| |:-------------------:|:--------------:|:------:|:---:|:----:|:---:|
+| **Status:**         |        -       |  -     |  -  |  + <br> (default)
+|  –  |
 
 ## Introduction
 
