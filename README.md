@@ -27,7 +27,7 @@ scripts)  created automatically by
 The Node module(s) to install are specified by the `param'MOD → {module1}; MOD2
 → {module2}; …'` ice. The name of the plugin will be `{module1}`, unless
 `id-as''` ice will be provided, or the `IDAS` param will be set (i.e.:
-`param'IDAS → my-plugin'; MOD → …`).
+`param'IDAS → my-plugin; MOD → …'`).
 
 A few example invocations:
 
