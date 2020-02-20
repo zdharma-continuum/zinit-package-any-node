@@ -52,7 +52,8 @@
                 "id-as": "${${:-%IDAS%}:-%MOD%}",
                 "node": "%MOD%;%MOD2%;%MOD3%;%MOD4%;%MOD5%;%MOD6%;%MOD7%;%OTHER%",
                 "sbin": "n:node_modules/.bin/*",
-                "atpull": "%atclone"
+                "atpull": "%atclone",
+                "nocompile": ""
             }
         }
     }
