@@ -19,7 +19,7 @@
     "_where": "/root/github2/pkg-any-node",
     "author": "Sebastian Gniazdowski",
     "bugs": {
-        "url": "https://github.com/Zsh-Packages/any-node/issues"
+        "url": "https://github.com/zdharma-continuum/zsh-package-any-node/issues"
     },
     "version": "1.0.0",
     "contributors": [],
@@ -30,7 +30,7 @@
     "directories": {
         "test": "test"
     },
-    "homepage": "https://github.com/Zsh-Packages/any-node",
+    "homepage": "https://github.com/zdharma-continuum/zsh-package-any-node",
     "keywords": [
         "npm wrapper",
         "zsh"
